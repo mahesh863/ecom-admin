@@ -14,7 +14,6 @@ The admin application can be used to configure/control the entire e-commerce app
 
 ## Features
 
-- Role-based access
 - Create and manage admins
 - Create and manage categories
 - Create and manage widgets
@@ -25,6 +24,7 @@ This application is still under development and the following are a few features
 
 - Realtime order notification 
 - Order processing
+- Role-based access
 
 
 ## Tech Stack
